@@ -1,0 +1,12 @@
+h1. [AS3] Serverless mode RTMFP library
+
+@auther "itoz":http://www.romatica.com 
+
+サーバーレスモードでRTMFPを利用するAS3ライブラリ
+あんまり綺麗にできていない。
+
+* SampleRTMFP.asをパブリッシュし、複数ウィンドウで立ち上げて、ボタンを押してみると接続が確認できます。
+* librtmfpを参考にさせていただきました。
+
+
+
