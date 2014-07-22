@@ -9,4 +9,5 @@ h1. [AS3] Serverless mode RTMFP library
 * librtmfpを参考にさせていただきました。
 
 
-[サーバレスモードRTMFP](http://www.slideshare.net/romatica/rtmfp-11174138)
+サーバレスモードRTMFP
+http://www.slideshare.net/romatica/rtmfp-11174138
